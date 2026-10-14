@@ -1,0 +1,10 @@
+.DS_Store
+**/.venv/
+**/.ipynb_checkpoints/
+**/__pycache__/
+
+# Более ранний черновик, сохранённый локально вне основной лабораторной.
+/practice_crisp_dm.ipynb
+/marvel.csv
+/requirements.txt
+/.python-version
