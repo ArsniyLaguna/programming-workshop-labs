@@ -1,0 +1,13 @@
+Признак;Метод;Метрика;Среднее за 3 повтора
+Orientation;KNN;accuracy;0.11111111111111112
+Orientation;Медиана / мода;accuracy;0.2192192192192192
+Orientation;Случайный лес;accuracy;0.057057057057057055
+Overall Height;KNN;MAE;3.334003076952422e-17
+Overall Height;Медиана / мода;MAE;1.8813813813813816
+Overall Height;Случайный лес;MAE;0.0
+Reactor Wall Area;KNN;MAE;13.120972439862996
+Reactor Wall Area;Медиана / мода;MAE;33.557575757575755
+Reactor Wall Area;Случайный лес;MAE;0.1654492424242433
+Relative Compactness;KNN;MAE;0.009787539927337113
+Relative Compactness;Медиана / мода;MAE;0.08266666666666665
+Relative Compactness;Случайный лес;MAE;8.060606060671517e-05
